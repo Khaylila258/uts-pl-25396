@@ -1,5 +1,0 @@
-.env
-node_modules/
-vendor/
-dist/
-database/database.sqlite
